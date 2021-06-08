@@ -109,6 +109,6 @@
       </ui:SendOutlookMail.Files>
     </ui:SendOutlookMail>
     <ui:SendExchangeMail ApplicationId="{x:Null}" Bcc="{x:Null}" Body="{x:Null}" Cc="{x:Null}" DirectoryId="{x:Null}" Domain="{x:Null}" EmailAutodiscover="{x:Null}" From="{x:Null}" MailMessage="{x:Null}" Name="{x:Null}" Password="{x:Null}" SecurePassword="{x:Null}" Server="{x:Null}" Subject="{x:Null}" TimeoutMS="{x:Null}" To="{x:Null}" User="{x:Null}" AuthenticationMode="UserNameAndPassword" DisplayName="Send Exchange Mail Message" ExchangeVersion="Exchange2007_SP1" sap:VirtualizedContainerService.HintSize="333.6,146.4" sap2010:WorkflowViewState.IdRef="SendExchangeMail_1" IsBodyHtml="False" IsDraft="False" SaveCopy="False" />
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[stringa.Substring(6,14)]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[stringa.Substring(6,13)]" />
   </Sequence>
 </Activity>
