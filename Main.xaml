@@ -75,6 +75,7 @@
         <Variable x:TypeArguments="x:String" Name="stringa1" />
         <Variable x:TypeArguments="x:String" Name="stringa2" />
         <Variable x:TypeArguments="x:String" Name="stringa3" />
+        <Variable x:TypeArguments="x:String" Name="stringa4" />
       </Sequence.Variables>
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
